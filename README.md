@@ -13,4 +13,5 @@
   <li>At present, scratching my head in learning Nest-GraphQl-Prisma 😅</li>
   <li>I did my B.E CSE from AAA-CET, Sivakasi 🎓</li>
   <li>Check out my website: https://portfolio-karthik.vercel.app/</li>
+  <li>We can connect over mail at: karthikofficial2002@gmail.com</li>
 </ul>
