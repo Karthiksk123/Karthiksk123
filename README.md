@@ -15,12 +15,9 @@
   <li>Check out my website: https://portfolio-karthik.vercel.app/</li>
 </ul>
 
-<h1>let's connect over <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
-   <a href="mailto:karthikofficial20020@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/developerkarthik/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://portfolio-karthik.vercel.app/"> <img alt="My Website" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
-
-# 💻 Programming Languages, Frameworks and Libraries 
+<h1>
+  💻 Programming Languages, Frameworks and Libraries I use
+</h1> 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
@@ -34,7 +31,7 @@
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![MeterialUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -53,7 +50,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
+<h1>let's connect over </h1>
+   <a href="mailto:karthikofficial20020@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/developerkarthik/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://portfolio-karthik.vercel.app/"> <img alt="My Website" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
+   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=karthiksk123&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karthiksk123&theme=synthwave&hide_border=false)<br/>
